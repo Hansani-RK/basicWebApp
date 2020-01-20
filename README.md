@@ -1,1 +1,1 @@
-# Recat Basci Web App
+# Recat Basic Web App
